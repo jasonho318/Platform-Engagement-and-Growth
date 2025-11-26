@@ -3,4 +3,4 @@ duckdb
 numpy
 matplotlib
 seaborn
-yfinance
+statsmodels
