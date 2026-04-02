@@ -28,39 +28,76 @@ The platform has entered a maturity phase. Acquisition is plateauing and churn i
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 1. Early Growth to Recent Plateau's
 
-- **MAU growth** after platform release and stabilization saw an average of 9% MoM MAU growth, peaking around June 2022 at 40%. Growth has seen a decline with each passing year, as 2024 saw growth of only 2% MoM on average and losses as low as -8%.
-- **Subscriber growth rate** follows a similar trend. MoM growth in 2021 is around 7% on average with highs of 12% towards the beginning of 2021. 2023-2024 only experience ~0.8%, with losses as low as -0.5% in April of 2023.
-
-### 3. Unexpected Churner Behavior
-
-- **dsfajk**
+- **The platform experienced strong early growth post-launch**, followed by a clear multi-year deceleration.
+Monthly active users grew rapidly after release, averaging ~9% MoM and peaking in mid-2022, but growth steadily declined thereafter, with 2024 averaging ~2% MoM and multiple months of net contraction.
+- Subscriber growth has mirrored MAU trends, transitioning from expansion to stagnation.
+**Early subscriber growth averaged ~7% MoM in 2021, but by 2023–2024 growth slowed to ~1% or less**, including several months of negative net adds — signaling a shift from growth to maintenance.
+- Importantly, **engagement intensity among remaining users has not deteriorated**.
+Core metrics such as average daily watch time and watch completion remain stable and seasonal, indicating that the plateau is driven by slowed acquisition and higher churn rather than declining usage among active users.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 2. Accelerating Activation & Dropoff
 
-- ****
-
-### 4. Recommendations
-
-- **asdf**
+- **Newer cohorts activate faster but churn significantly earlier** than prior cohorts. Time-to-first-activity has decreased year-over-year, while survival curves show materially lower retention for cohorts from 2022 onward, with 2024 exhibiting the steepest early drop-off.
+- **Early engagement gains are not translating into sustained user value.** Despite faster activation, cohort retention decays more quickly within the first 1–3 months, indicating that initial interest or novelty does not convert into long-term usage.
+- This pattern points to **declining user-product fit rather than engagement depth issues**. Stable engagement intensity among active users suggests churn is driven by who is acquired and expectations set at onboarding, not by how remaining users consume content.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### 3. Unexpected Churner Behavior
+
+- **Rising churn has not been preceded by a decline in engagement intensity.** Core engagement metrics — including average daily watch time, watch completion, and sessions per active user — remain stable and largely seasonal across the period, even as cancellations accelerate.
+- **Users often remain active until shortly before cancellation.** Churn does not follow a typical gradual disengagement pattern, indicating that users continue consuming content but ultimately opt out once perceived long-term value declines.
+- **This disconnect suggests churn is driven by value realization rather than usage depth.** The platform retains the attention of active users in the short term, but struggles to sustain perceived value over time — pointing to issues such as content exhaustion, expectation mismatch, or insufficient reasons to remain subscribed.
+
+</td>
+<td width="50%" valign="top">
+
+### 4. Recommendations
+
+- **Refocus acquisition toward long-term user fit, not early activation**. Given faster activation but weaker retention in newer cohorts, revisit acquisition channels, messaging, and onboarding flows to ensure expectations align with sustained platform value rather than short-term novelty.
+- **Intervene earlier in the user lifecycle** to address rapid drop-off. Concentrate retention efforts within the first 30–90 days post-signup, where cohort decay is steepest, by reinforcing ongoing reasons to return (content discovery, release cadence, or value reminders).
+- **Investigate drivers of perceived long-term value beyond engagement intensity**. Since core engagement metrics remain stable despite rising churn, prioritize qualitative and behavioral analyses around content exhaustion, catalog depth over time, pricing sensitivity, and renewal decision triggers.
+
+</td>
+</tr>
 </table>
 
 ## Insights Deep-Dive
 
-- Growth Trends
-- Cohort Retention & Churn
-- Churn & Engagement Behaviors
-- Segmentation
-- Additional Contextual Insights
+### Platform Growth Overview
+
+Following launch, the platform experienced strong early growth, driven by steady increases in both subscriber count and monthly active users. This period was characterized by consistent expansion and rising engagement across the user base.
+
+Over time, however, growth momentum began to slow. While total MAU continued to increase, the rate of growth declined steadily, eventually flattening in recent periods. This shift marks a departure from the platform’s early trajectory and suggests that growth dynamics have fundamentally changed.
+
+To better understand the source of this plateau, it is necessary to examine whether the slowdown is driven by changes in acquisition, increased churn, or differences in retention across user cohorts. The following analysis explores these questions in detail.
+
+![mau&subs](assets/mau&subs.png)
+
+### Weakening Cohort Retention, Accelerating Activation & Dropoff
+
+Taken together, these analyses show that the platform’s growth plateau is driven primarily by weakening cohort retention rather than declining acquisition. While newer users are activating more quickly than earlier cohorts, they are also churning significantly earlier, leading to faster drop-off and lower long-term retention.
+
+This pattern suggests that recent users are able to engage with the platform initially, but are not finding sufficient ongoing value to remain active over time. As a result, growth gains from faster activation are offset—and ultimately reversed—by accelerated churn.
+
+
+
+### Churn & Engagement Behaviors
+### Segmentation
+### Additional Contextual Insights
 
 ## Recommendations
