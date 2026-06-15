@@ -68,9 +68,17 @@ Taken together, these analyses show that the platform’s growth plateau is driv
 
 This pattern suggests that recent users are able to engage with the platform initially, but are not finding sufficient ongoing value to remain active over time. As a result, growth gains from faster activation are offset—and ultimately reversed—by accelerated churn.
 
-![mau&subs](assets/mau&subs.png)
+![survival](assets/survival.png)
 
 ### Churn & Engagement Behaviors
+
+Although retention weakened across newer cohorts, the analysis did not show a clear decline in short-term engagement before churn. Churned users remained similarly active — and in some windows even more active — than retained users when comparing session frequency and watch time in the 30, 60, and 120 days before cancellation. This suggests that churn was not primarily driven by users gradually disengaging from the platform before leaving.
+
+Instead, churn appears to be disconnected from traditional engagement indicators. Users may still be watching content shortly before cancellation, meaning the decision to leave could be influenced by factors not captured in the available behavioral data, such as perceived content value, subscription cost, billing cycles, competitive alternatives, or dissatisfaction after completing desired content. As a result, engagement alone is not a reliable early-warning signal for churn in this dataset.
+
+![churned_behavior](assets/churned_behavior.png)
+
+
 ### Segmentation
 ### Additional Contextual Insights
 
