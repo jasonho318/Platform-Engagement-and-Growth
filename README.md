@@ -26,25 +26,11 @@ Key insights and recommendations are structured around three core areas:
 
 The platform has entered a maturity phase. Acquisition is plateauing and churn is rising, while engagement remains stable but static. User behavior looks remarkably uniform across regions, plans, and content types — with movies as the major driver. To reignite growth, the company needs to improve early retention and strengthen content value, especially around high-engagement formats like movies.
 
-<table>
-<tr>
-<td valign="top">
+### 1. Early Growth to Recent Plateaus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 1. Early Growth to Recent Plateau's
-
-- **The platform experienced strong early growth post-launch**, followed by a clear multi-year deceleration.
-Monthly active users grew rapidly after release, averaging ~9% MoM and peaking in mid-2022, but growth steadily declined thereafter, with 2024 averaging ~2% MoM and multiple months of net contraction.
-- Subscriber growth has mirrored MAU trends, transitioning from expansion to stagnation.
-**Early subscriber growth averaged ~7% MoM in 2021, but by 2023–2024 growth slowed to ~1% or less**, including several months of negative net adds — signaling a shift from growth to maintenance.
-- Importantly, **engagement intensity among remaining users has not deteriorated**.
-Core metrics such as average daily watch time and watch completion remain stable and seasonal, indicating that the plateau is driven by slowed acquisition and higher churn rather than declining usage among active users.
-
-</td>
-<td width="50%" valign="top">
+- **The platform experienced strong early growth post-launch**, followed by a clear multi-year deceleration. Monthly active users grew rapidly after release, averaging ~9% MoM and peaking in mid-2022, but growth steadily declined thereafter, with 2024 averaging ~2% MoM and multiple months of net contraction.
+- Subscriber growth has mirrored MAU trends, transitioning from expansion to stagnation. **Early subscriber growth averaged ~7% MoM in 2021, but by 2023–2024 growth slowed to ~1% or less**, including several months of negative net adds — signaling a shift from growth to maintenance.
+- Importantly, **engagement intensity among remaining users has not deteriorated**. Core metrics such as average daily watch time and watch completion remain stable and seasonal, indicating that the plateau is driven by slowed acquisition and higher churn rather than declining usage among active users.
 
 ### 2. Accelerating Activation & Dropoff
 
@@ -52,29 +38,17 @@ Core metrics such as average daily watch time and watch completion remain stable
 - **Early engagement gains are not translating into sustained user value.** Despite faster activation, cohort retention decays more quickly within the first 1–3 months, indicating that initial interest or novelty does not convert into long-term usage.
 - This pattern points to **declining user-product fit rather than engagement depth issues**. Stable engagement intensity among active users suggests churn is driven by who is acquired and expectations set at onboarding, not by how remaining users consume content.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 3. Unexpected Churner Behavior
 
 - **Rising churn has not been preceded by a decline in engagement intensity.** Core engagement metrics — including average daily watch time, watch completion, and sessions per active user — remain stable and largely seasonal across the period, even as cancellations accelerate.
 - **Users often remain active until shortly before cancellation.** Churn does not follow a typical gradual disengagement pattern, indicating that users continue consuming content but ultimately opt out once perceived long-term value declines.
 - **This disconnect suggests churn is driven by value realization rather than usage depth.** The platform retains the attention of active users in the short term, but struggles to sustain perceived value over time — pointing to issues such as content exhaustion, expectation mismatch, or insufficient reasons to remain subscribed.
 
-</td>
-<td width="50%" valign="top">
-
 ### 4. Recommendations
 
 - **Refocus acquisition toward long-term user fit, not early activation**. Given faster activation but weaker retention in newer cohorts, revisit acquisition channels, messaging, and onboarding flows to ensure expectations align with sustained platform value rather than short-term novelty.
 - **Intervene earlier in the user lifecycle** to address rapid drop-off. Concentrate retention efforts within the first 30–90 days post-signup, where cohort decay is steepest, by reinforcing ongoing reasons to return (content discovery, release cadence, or value reminders).
 - **Investigate drivers of perceived long-term value beyond engagement intensity**. Since core engagement metrics remain stable despite rising churn, prioritize qualitative and behavioral analyses around content exhaustion, catalog depth over time, pricing sensitivity, and renewal decision triggers.
-
-</td>
-</tr>
-</table>
 
 ## Insights Deep-Dive
 
@@ -94,7 +68,7 @@ Taken together, these analyses show that the platform’s growth plateau is driv
 
 This pattern suggests that recent users are able to engage with the platform initially, but are not finding sufficient ongoing value to remain active over time. As a result, growth gains from faster activation are offset—and ultimately reversed—by accelerated churn.
 
-
+![mau&subs](assets/mau&subs.png)
 
 ### Churn & Engagement Behaviors
 ### Segmentation
