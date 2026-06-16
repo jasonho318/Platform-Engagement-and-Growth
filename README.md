@@ -1,4 +1,4 @@
-# Streaming Platform Performance Report
+# Flixhub Engagement & Growth Performance Report
 
 ## Client Background
 Flixhub is a Europe-based entertainment streaming platform positioned as an affordable alternative for film enthusiasts seeking a frequently refreshed catalog of global titles. Founded in 2020, the platform has expanded steadily over the past five years, accumulating over 1,000 users, 10,000 sessions, and more than 200 titles.
@@ -68,7 +68,13 @@ Taken together, these analyses show that the platform’s growth plateau is driv
 
 This pattern suggests that recent users are able to engage with the platform initially, but are not finding sufficient ongoing value to remain active over time. As a result, growth gains from faster activation are offset—and ultimately reversed—by accelerated churn.
 
+![legend](assets/legend.png)
+
 ![survival](assets/survival.png)
+
+![legend_engagement](assets/legend_engagement.png)
+
+![cohort_engagement](assets/cohort_engagement.png)
 
 ### Churn & Engagement Behaviors
 
@@ -76,10 +82,20 @@ Although retention weakened across newer cohorts, the analysis did not show a cl
 
 Instead, churn appears to be disconnected from traditional engagement indicators. Users may still be watching content shortly before cancellation, meaning the decision to leave could be influenced by factors not captured in the available behavioral data, such as perceived content value, subscription cost, billing cycles, competitive alternatives, or dissatisfaction after completing desired content. As a result, engagement alone is not a reliable early-warning signal for churn in this dataset.
 
-![churned_behavior](assets/churned_behavior.png)
-
-
-### Segmentation
-### Additional Contextual Insights
+![churned_behavior1](assets/churned_behavior1.png)
+![churned_behavior2](assets/churned_behavior2.png)
 
 ## Recommendations
+
+Based on the analysis, the platform should shift its focus from driving faster early activation to improving long-term user fit and sustained value. Newer cohorts are activating more quickly, but they are also retaining worse and churning earlier, suggesting that early usage alone is not translating into durable engagement. Acquisition messaging, onboarding flows, and early user expectations should be reviewed to ensure that new users understand the platform’s ongoing value beyond initial content discovery.
+
+Retention efforts should also be concentrated earlier in the user lifecycle, particularly within the first 30 to 90 days after signup. Since cohort decay appears fastest shortly after users join, the platform should test interventions such as personalized content recommendations, value reminders, onboarding follow-ups, and release-based messaging during this early window. The goal should be to reinforce reasons to return before users reach the point of cancellation.
+
+Finally, the platform should investigate churn drivers beyond basic engagement intensity. Churned users did not show a clear decline in session duration or activity before leaving, which suggests that users may still be active shortly before cancellation. This points to possible drivers such as content exhaustion, perceived catalog depth, subscription price sensitivity, billing-cycle timing, or competitive alternatives. Future analysis should combine behavioral data with user feedback, cancellation reasons, content consumption patterns, and pricing experiments to better understand why active users still choose to leave.
+
+| Finding                                         | What it means                                          | Recommendation                                                                       |
+| ----------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Newer cohorts activate faster but retain worse  | Early activity is not translating into long-term value | Refocus acquisition/onboarding on long-term user fit                                 |
+| Retention drops steeply in first 30–90 days     | Churn risk forms early in the lifecycle                | Intervene earlier with lifecycle messaging and content discovery                     |
+| Churned users remain active before cancellation | Usage alone is not enough to explain churn             | Investigate value-based drivers like content exhaustion, pricing, and billing timing |
+
